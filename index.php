@@ -7,10 +7,12 @@
     <title>Fare Activity</title>
 </head>
 <body>
+    <h2>This is our activity called Fare Calculator</h2>
     <form action="" method="post">
         <input type="number" name="age" placeholder="Age" min="10" max="80"><br>
         <input type="number" name="distance" placeholder="Distance (km)" min="1"><br>
         <button type="submit" name="btn_compute">Compute</button>
+        
     </form>
 </body>
 </html>
